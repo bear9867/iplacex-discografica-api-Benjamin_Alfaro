@@ -1,2 +1,2 @@
-# iplacex-discografica-api-Benjamin_Alfaro
+API REST Spring para administración de discografías favoritas de empleados de IPLACE
 
